@@ -1,2 +1,2 @@
-# iterative-quick-sort
-Implementação em Kotlin do algoritmo de ordenação QuickSort versão iterativa.
+# Kotlin Iterative QuickSort
+Implementação em Kotlin do algoritmo de ordenação QuickSort na versão iterativa.
